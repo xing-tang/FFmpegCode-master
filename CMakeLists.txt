@@ -48,6 +48,12 @@ target_link_libraries(6_ff_extra_video
         ${avformat-lib}
         ${avcodec-lib})
 
+add_executable(7_ff_mp4_muxing_flv 7_ff_mp4_muxing_flv.cpp)
+target_link_libraries(7_ff_mp4_muxing_flv
+        ${avutil-lib}
+        ${avformat-lib}
+        ${avcodec-lib})
+
 
 #find_package(PkgConfig REQUIRED)
 #MESSAGE($ENV{PKG_CONFIG_PATH})

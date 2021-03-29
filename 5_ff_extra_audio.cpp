@@ -98,8 +98,8 @@ int main(int argc, char *argv[]) {
 
     // char *src_filename = NULL;
     // char *dst_filename = NULL;
-    char *src_filename = "/Library/Android/work/work_clion/FFmepg_Learning/files/sample.mp4";
-    char *dst_filename = "/Library/Android/work/work_clion/FFmepg_Learning/files/sample.aac";
+    const char *src_filename = "/Library/AndroidWork/work_clion/FFmpegCode/files/sample.mp4";
+    const char *dst_filename = "/Library/AndroidWork/work_clion/FFmpegCode/files/sample.aac";
 
     FILE *dst_fd = NULL;
 

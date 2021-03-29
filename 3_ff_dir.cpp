@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
     AVIODirEntry *entry = NULL;
     av_log_set_level(AV_LOG_DEBUG);
 
-    int ret = avio_open_dir(&ctx, "/Library/Android/work/work_clion/FFmepg_Learning/files/", NULL);
+    int ret = avio_open_dir(&ctx, "\"/Library/AndroidWork/work_clion/FFmpegCode/files/", NULL);
     if (ret < 0) {
         av_log(NULL, AV_LOG_ERROR, "Cant open dir:%s\n", av_err2str(ret));
         goto __fail;
