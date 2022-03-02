@@ -1,0 +1,14 @@
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/11_ff_encode_audio.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/6_ff_extra_video.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/10_ff_decode_video.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/8_ff_cut_video.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/9_ff_encode_video.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/12_ff_decode_audio.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/4_ff_meta.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/5_ff_extra_audio.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/1_ff_log.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/2_ff_file.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/3_ff_dir.dir
+/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/CMakeFiles/7_ff_mp4_muxing_flv.dir

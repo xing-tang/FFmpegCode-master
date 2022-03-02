@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FFmepgCode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_ff_encode_audio">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/11_ff_encode_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_ff_encode_audio"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_ff_encode_audio/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/11_ff_encode_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_ff_encode_audio/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_ff_extra_video">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/6_ff_extra_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_ff_extra_video"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_ff_extra_video/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/6_ff_extra_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_ff_extra_video/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_ff_decode_video">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/10_ff_decode_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_ff_decode_video"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_ff_decode_video/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/10_ff_decode_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_ff_decode_video/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_ff_cut_video">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/8_ff_cut_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_ff_cut_video"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_ff_cut_video/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/8_ff_cut_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_ff_cut_video/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_ff_encode_video">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/9_ff_encode_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_ff_encode_video"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_ff_encode_video/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/9_ff_encode_video" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_ff_encode_video/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_ff_decode_audio">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/12_ff_decode_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_ff_decode_audio"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_ff_decode_audio/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/12_ff_decode_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_ff_decode_audio/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_ff_meta">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/4_ff_meta" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_ff_meta"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_ff_meta/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/4_ff_meta" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_ff_meta/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_ff_extra_audio">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/5_ff_extra_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_ff_extra_audio"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_ff_extra_audio/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/5_ff_extra_audio" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_ff_extra_audio/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_ff_log">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/1_ff_log" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_ff_log"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_ff_log/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/1_ff_log" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_ff_log/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_ff_file">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/2_ff_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_ff_file"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_ff_file/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/2_ff_file" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_ff_file/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_ff_dir">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/3_ff_dir" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_ff_dir"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_ff_dir/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/3_ff_dir" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_ff_dir/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_ff_mp4_muxing_flv">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/7_ff_mp4_muxing_flv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_ff_mp4_muxing_flv"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_ff_mp4_muxing_flv/fast">
+				<Option output="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/7_ff_mp4_muxing_flv" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2/include"/>
+					<Add directory="/usr/local/ffmpeg/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_ff_mp4_muxing_flv/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Library/AndroidWork/work_clion/FFmpegCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/10_ff_decode_video.cpp">
+			<Option target="10_ff_decode_video"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/11_ff_encode_audio.cpp">
+			<Option target="11_ff_encode_audio"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/12_ff_decode_audio.cpp">
+			<Option target="12_ff_decode_audio"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/1_ff_log.cpp">
+			<Option target="1_ff_log"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/2_ff_file.cpp">
+			<Option target="2_ff_file"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/3_ff_dir.cpp">
+			<Option target="3_ff_dir"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/4_ff_meta.cpp">
+			<Option target="4_ff_meta"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/5_ff_extra_audio.cpp">
+			<Option target="5_ff_extra_audio"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/6_ff_extra_video.cpp">
+			<Option target="6_ff_extra_video"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/7_ff_mp4_muxing_flv.cpp">
+			<Option target="7_ff_mp4_muxing_flv"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/8_ff_cut_video.cpp">
+			<Option target="8_ff_cut_video"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/9_ff_encode_video.cpp">
+			<Option target="9_ff_encode_video"/>
+		</Unit>
+		<Unit filename="/Library/AndroidWork/work_clion/FFmpegCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
